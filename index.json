@@ -1,0 +1,11 @@
+{
+  "org": "jaraco",
+  "repo": "lpaste",
+  "versions": [
+    {
+      "commit": "b8664250f3d7b950a1bda1d6d60bc657dd8527e3",
+      "tag": "",
+      "parsed_at": "2026-10-20T11:02:10.191485+00:00"
+    }
+  ]
+}
